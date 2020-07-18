@@ -43,46 +43,46 @@ BepInEx
 
 - R2API
 
-   ![](./document/resource/r2api/tristanmcpherson-R2API-2.4.29.png.128x128_q85.png) 
+   - ![](./document/resource/r2api/tristanmcpherson-R2API-2.4.29.png.128x128_q85.png) 
    - 下载地址：[https://thunderstore.io/package/tristanmcpherson/R2API](https://thunderstore.io/package/tristanmcpherson/R2API)
    - git地址：[https://github.com/risk-of-thunder/R2API](https://github.com/risk-of-thunder/R2API)
    > 提供其他mod运行所需api，需要依赖BepInEx框架，作为核心组件，在没有安装mod时不会对游戏产生任何影响。（默认去掉路人匹配以及棱镜试练）
 
 - UnmoddedClients
    
-   ![](./document/resource/UnmoddedClients/vis-eyth-UnmoddedClients-1.1.4.png.128x128_q85.png)
+   - ![](./document/resource/UnmoddedClients/vis-eyth-UnmoddedClients-1.1.4.png.128x128_q85.png)
    - 下载地址：[https://thunderstore.io/package/vis-eyth/UnmoddedClients](https://thunderstore.io/package/vis-eyth/UnmoddedClients)
    - git地址：[https://github.com/vis-eyth/UnmoddedClients](https://github.com/vis-eyth/UnmoddedClients)
    > 允许未安装mod但安装了框架的客户端加入你的主机，支持配置build_id，默认为steam的build_id，build_id不同将影响主机和客户端连接
 
 - SteamBuildID
    
-   ![](./document/resource/SteamBuildID/baekhorangi-SteamBuildID-1.2.0.png.128x128_q85.jpg)
+   - ![](./document/resource/SteamBuildID/baekhorangi-SteamBuildID-1.2.0.png.128x128_q85.jpg)
    - 下载地址：[https://thunderstore.io/package/baekhorangi/SteamBuildID](https://thunderstore.io/package/baekhorangi/SteamBuildID)
    > 主机：允许build_id不同的客户端加入游戏。客户端：允许加入build_id为“MOD”或者与自身相同的主机。
 
 - ProperSave 游戏存档
    
-   ![](./document/resource/ProperSave/KingEnderBrine-ProperSave-2.1.1.png.128x128_q85.png)
+   - ![](./document/resource/ProperSave/KingEnderBrine-ProperSave-2.1.1.png.128x128_q85.png)
    - 下载地址：[https://thunderstore.io/package/KingEnderBrine/ProperSave](https://thunderstore.io/package/KingEnderBrine/ProperSave)
    - git地址：[https://github.com/KingEnderBrine/-RoR2-ProperSave](https://github.com/KingEnderBrine/-RoR2-ProperSave)
    > 游戏将于每关开始时存档。同时只能存在一个存档，当所有玩家死亡时存档将被删除。多人游戏支持：人物选择界面将出现一个`load`按钮，当已有存档并且与存档内的玩家配置与当前已连接玩家相同时激活。
 
 - TooManyFriends 修改最大游戏人数
 
-   ![](./document/resource/TooManyFriends/wildbook-TooManyFriends-1.0.0.png.128x128_q85.jpg)
+   - ![](./document/resource/TooManyFriends/wildbook-TooManyFriends-1.0.0.png.128x128_q85.jpg)
    - 下载地址：[https://thunderstore.io/package/wildbook/TooManyFriends](https://thunderstore.io/package/wildbook/TooManyFriends)
    - git地址：[https://github.com/wildbook/R2Mods/tree/master/TooManyFriends](https://github.com/wildbook/R2Mods/tree/master/TooManyFriends)
    > 允许修改多人游戏最大人数，同时游戏人数可在`config/dev.wildbook.toomanyfriends`文件中修改，默认是16
 
 - NoBossNoWait BOSS死亡时传送器立即充能
 
-   ![](./document/resource/NoBossNoWait/mistername-NoBossNoWait-1.1.3.png.128x128_q85.png)
+   - ![](./document/resource/NoBossNoWait/mistername-NoBossNoWait-1.1.3.png.128x128_q85.png)
    - 下载地址：[https://thunderstore.io/package/mistername/NoBossNoWait](https://thunderstore.io/package/mistername/NoBossNoWait)
    > BOSS死亡时传送器激励充能完毕
 
 - ReviveAfterBoss BOSS死亡时复活所有死亡队友
 
-   ![](./document/resource/ReviveAfterBoss/_Simon-ReviveAfterBoss-1.0.0.png.128x128_q85.png)
+   - ![](./document/resource/ReviveAfterBoss/_Simon-ReviveAfterBoss-1.0.0.png.128x128_q85.png)
    - 下载地址：[https://thunderstore.io/package/_Simon/ReviveAfterBoss](https://thunderstore.io/package/_Simon/ReviveAfterBoss)
    > BOSS死亡时复活所有已死亡，复活后当前关卡死亡将不会再次复活
